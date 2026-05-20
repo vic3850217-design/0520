@@ -1,0 +1,6 @@
+{
+  "name": "萬用抽籤及求籤系統",
+  "description": "一個精美極簡、融入現代設計的多功能抽籤系統。包含傳統求籤、幸運大轉盤、名單抽獎箱與數字隨機抽籤，搭載真實物理音效與逼真動畫。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
